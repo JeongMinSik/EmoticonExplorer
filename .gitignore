@@ -1,0 +1,6 @@
+
+.buildozer/*
+.idea/*
+venv/*
+bin/*
+buildozer.spec
